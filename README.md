@@ -26,6 +26,8 @@ vineyard = "grow" and "tend" to your markdown writings
 
 it has to be a great web markdown editor out-of-the-box first, ai is supposed to be only for enhancing the flow
 
+intentionally simple
+
 ### features
 
 #### essential
@@ -51,6 +53,7 @@ it has to be a great web markdown editor out-of-the-box first, ai is supposed to
     - @files in chat
     - reorganize panels
     - settings and personalization (colors, fonts) => frictionless experience on bring ideas from the brain to words
+    - bar to highlight and click bold / italic
 
 #### future-future
 - bring your own API key...?
@@ -67,4 +70,6 @@ it has to be a great web markdown editor out-of-the-box first, ai is supposed to
 
 ## similar apps
 - https://lex.page/
+- https://type.ai/
+- https://reflect.app/
 - 
