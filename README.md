@@ -65,3 +65,6 @@ it has to be a great web markdown editor out-of-the-box first, ai is supposed to
 - whats a good way to "save" markdown files? drag-and-drop support needed too
 - use openrouter so can use different models...?
 
+## similar apps
+- https://lex.page/
+- 
