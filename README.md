@@ -37,6 +37,13 @@ it has to be a great web markdown editor out-of-the-box first, ai is supposed to
 - ai chat panel (no inline / tab completions)
 
 #### future
+- choose models...?
+    - thinking to first support gemini flash only for the pricing and familiarity as im targetting gemini users...?
+    - should probably support open source models for the cost...? (again, see opencode go)
+    - maybe also... gpt mini? (see copilot)
+    - also allow free models available in OpenRouter...?
+- pay-as-you-go pricing...?
+    - after $10 and want to continue to use better models... pay-as-you-go?
 - basic vim support
 - export files
 - import files
@@ -46,6 +53,7 @@ it has to be a great web markdown editor out-of-the-box first, ai is supposed to
     - settings and personalization (colors, fonts) => frictionless experience on bring ideas from the brain to words
 
 #### future-future
+- bring your own API key...?
 - collaborative editing aka multiplayer google docs style
 
 ### business model
@@ -55,4 +63,5 @@ it has to be a great web markdown editor out-of-the-box first, ai is supposed to
 ## the implementation
 - is there an existing web editor i can just "use out-of-the-box" for potential future vim support?
 - whats a good way to "save" markdown files? drag-and-drop support needed too
+- use openrouter so can use different models...?
 
