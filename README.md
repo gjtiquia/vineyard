@@ -63,6 +63,13 @@ intentionally simple
 - flat $10 per month pricing, with rate limits (see opencode go)
 - be super honest on the profit margin, and that the rate limits are calculated via provider pricing, and will adjust over time
 
+or....
+
+https://x.com/i/status/2072410856390799583
+- a 50% above a hetzner box
+
+cuz if we're on a box anyways, lots of flexibility, git and all, and might even be able to do cron jobs, kind of a "semi-hermes" but more specialized, skills are possible too tbh
+
 ## the implementation
 - is there an existing web editor i can just "use out-of-the-box" for potential future vim support?
 - whats a good way to "save" markdown files? drag-and-drop support needed too
