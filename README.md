@@ -49,6 +49,7 @@ intentionally simple
 - basic vim support
 - export files
 - import files
+    - think PDFs and the like
 - quality of life features
     - @files in chat
     - reorganize panels
@@ -58,6 +59,7 @@ intentionally simple
 #### future-future
 - bring your own API key...?
 - collaborative editing aka multiplayer google docs style
+- latex / typst support...?
 
 ### business model
 - flat $10 per month pricing, with rate limits (see opencode go)
