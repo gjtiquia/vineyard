@@ -6,6 +6,13 @@
 
 ai-powered online markdown editor for non-technical people
 
+not sure if we should put ai at the headline tho
+
+kind of want "ai optional", but if you do choose ai, its gonna be like, the best experience ever, a spectrum
+- tab auto-complete
+- copilot chat
+- agentic
+
 ### story
 
 lots of ai-usage problems have been largely "solved" by developers
